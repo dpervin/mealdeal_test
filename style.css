@@ -13,8 +13,10 @@ body {
 }
 
 .logo {
-  display: block;
-  margin: 0 auto;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  transform: translateX(-50%);
   max-width: 100%;
   height: auto;
   width: 250px;
