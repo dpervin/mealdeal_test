@@ -6,6 +6,7 @@ header {
   padding-top: 100px;
   padding-left: 130px; /* Add padding to the left side of the header to create space for the logo */
   padding-right: 130px;
+  word-wrap: break-word;
 }
 
 body {
@@ -35,6 +36,7 @@ p {
   margin-bottom: 20px;
   text-align: center;
   color: #F14444;
+  word-wrap: break-word;
 }
 
 main {
