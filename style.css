@@ -13,9 +13,8 @@ body {
 }
 
 .logo {
-  position: absolute;
-  top: 0px;
-  left: 0px;
+  display: block;
+  margin: 0 auto;
   max-width: 100%;
   height: auto;
   width: 250px;
