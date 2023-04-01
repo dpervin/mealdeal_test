@@ -17,8 +17,8 @@ body {
   top: 0px;
   left: 0px;
   max-width: 100%;
-  height: 75px;
-  width: 150px;
+  height: auto;
+  width: 250px;
 }
 
 h1 {
