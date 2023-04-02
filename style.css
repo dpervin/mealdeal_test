@@ -10,11 +10,6 @@ body {
   background-color: #FAF9F6;
 }
 
-.logo-container {
-  position: relative;
-  height: 175px;
-}
-
 .header-container {
   position: relative;
   height: 175px; /* Set the height of the container to match the height of the logo */
@@ -29,7 +24,7 @@ body {
   position: absolute;
   top: 10px;
   left: 10px;
-  max-width: 100%;
+  max-width: 230%;
   height: auto;
 }
 
