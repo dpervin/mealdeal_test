@@ -20,6 +20,11 @@ body {
   height: 175px; /* Set the height of the container to match the height of the logo */
 }
 
+.paragraph-container {
+  position: relative;
+  height: 175px; /* Set the height of the container to match the height of the logo */
+}
+
 .logo {
   position: absolute;
   top: 20px;
