@@ -1,13 +1,18 @@
-body {
-  background-color: #FAF9F6;
-  word-wrap: break-word;
-}
-
 header {
   background-color: #FAF9F6;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   padding: 20px;
+  word-wrap: break-word;
+}
+
+body {
+  background-color: #FAF9F6;
+}
+
+.header-container {
+  position: relative;
+  height: 175px;
 }
 
 .logo {
@@ -16,12 +21,12 @@ header {
   left: 10px;
   max-width: 180px;
   height: auto;
+  margin-right: 10px;
 }
-
 
 h1 {
   font-size: 48px;
-  margin-top: 50px; /* Add margin-top to create space between the logo and the h1 element */
+  margin-top: 50px;
   color: #F14444;
   font-family: 'Open Sans', sans-serif;
 }
@@ -32,6 +37,7 @@ p {
   margin-bottom: 20px;
   text-align: center;
   color: #F14444;
+  word-wrap: break-word;
 }
 
 main {
