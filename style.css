@@ -1,13 +1,13 @@
+body {
+  background-color: #FAF9F6;
+  word-wrap: break-word;
+}
+
 header {
   background-color: #FAF9F6;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   padding: 20px;
-  word-wrap: break-word;
-}
-
-body {
-  background-color: #FAF9F6;
 }
 
 .logo {
@@ -32,7 +32,6 @@ p {
   margin-bottom: 20px;
   text-align: center;
   color: #F14444;
-  word-wrap: break-word;
 }
 
 main {
